@@ -1,4 +1,10 @@
+<div align="left">
+	
+[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fraphi091?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Imagination%20to%20Reality&fontSize=60)
+<div align="left">
 # 👋 안녕하세요, 상상력을 현실로 만드는 개발자 김우영입니다!
 
 > "당연하게 여겨지는 것들에서 새로운 재미를 창조하는, 유저 같은 프로그래머가 되겠습니다."
@@ -24,6 +30,18 @@
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+
+<img art="[gitanimals 농장]"    width="630" src="https://render.gitanimals.org/lines/raphi091?pet-id=746033452721742106" style="height: auto; object-fit:contain;" />
+<br>
+<img alt="[gitanimals 농장]"    width="330"  height="165" src="https://render.gitanimals.org/farms/raphi091?success" />
+<img alt="[git stats 언어비율]" width="300"  height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=raphi091&layout=compact&theme=radical" />
+
+---
+
+<div align="left">
+  
 ### 🚀 Key Projects
 
 #### 🧪 Affinity Lab (VR 시뮬레이션 | 🏆 2025 HOLO EXPO 공식 초청작)
@@ -50,9 +68,3 @@
 - **핵심 기술**: 
   - FSM(상태 머신) 기반 욕구 수치에 따른 반려견 AI 행동 로직 구현
   - Interaction Manager를 통한 다중 개체 상호작용 중앙 관리 시스템 구축
-
----
-
-### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=raphi091&show_icons=true&theme=vibrant)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphi091&layout=compact&theme=vibrant)
