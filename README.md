@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!&fontSize=70)
 
-## 👋 안녕하세요, [이름]입니다!
-- 🔭 현재 **[공부 중인 내용]**을 학습하고 있습니다.
-- 🌱 관심 분야는 **[관심사 - 예: 웹 개발, 데이터 분석]**입니다.
-- 💬 저에게 궁금한 점은 **[이메일 주소]**로 연락주세요!
+## 👋 안녕하세요, 김우입니다!
+- 🔭 현재 **유니티6**을 학습하고 있습니다.
+- 🌱 관심 분야는 **게임 개발, 유니티 개발**입니다.
+- 💬 저에게 궁금한 점은 **kwy8024@gmail.com**로 연락주세요!
 
 ### 🛠 Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
