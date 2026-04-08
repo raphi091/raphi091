@@ -64,6 +64,7 @@
 >   - 표준화된 인터페이스 설계를 통한 실험 도구 간 상호작용 시스템 구축
 >   - **역할**: 팀장, AI NPC 설계, 배양 로직 및 UI 구현
 > - **GitHub - Repository** →  <a href="https://github.com/raphi091/VR_Laboratory">`Affinity Lab`<a>
+<br>
 
 #### 🕹️ Overclocked (1인 탄막 슈팅)
 > - **설명**: 한 명의 유저가 좌/우뇌를 따로 쓰듯 두 캐릭터를 동시에 조작하는 독특한 슈팅 게임
@@ -72,6 +73,7 @@
 >   - Json Data Format을 활용한 랭킹 시스템 및 데이터 관리
 >   - **역할**: 팀장, 플레이어 로직 및 게임 시스템 총괄
 > - **GitHub - Repository** →  <a href="https://github.com/raphi091/Overclocked_TeamProject">`Overclocked`<a>
+<br>
 
 #### 🏚️ Area 52 (멀티플레이 생존 협동)
 > - **핵심 기술**: 
@@ -79,6 +81,7 @@
 >   - MariaDB 연동을 통한 사용자 계정 DB(회원가입/로그인) 구축
 >   - **역할**: 팀장, 네트워크 및 데이터베이스 설계 총괄
 > - **GitHub - Repository** →  <a href="https://github.com/raphi091/Area52">`Area 52`<a>
+<br>
 
 #### 🐾 우리들의 두근두근 펫 프렌즈 (VR 시뮬레이션)
 > - **핵심 기술**: 
