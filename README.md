@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 ### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=raphi091&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphi091&layout=compact&theme=radical)
 <!--
 **raphi091/raphi091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
