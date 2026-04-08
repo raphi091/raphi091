@@ -54,5 +54,5 @@
 ---
 
 ### 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=raphi091&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphi091&layout=compact&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=raphi091&show_icons=true&theme=vibrant)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphi091&layout=compact&theme=vibrant)
