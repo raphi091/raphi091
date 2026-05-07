@@ -1,6 +1,6 @@
 <div align="left">
-	
-[![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fraphi091?color=purple&label=Hits&size=small)](https://myhits.vercel.app)
+
+[![R](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=R&size=small)](https://myhits.vercel.app)
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Imagination%20to%20Reality&fontSize=60)
