@@ -17,8 +17,10 @@
 <br>
 
 ## 👤 Current
+##### Studio LightHouse (2025.09 ~ 2026.02)
+> - REKINDLE 개발 및 출시
 ##### (주)넥스트러너스 (2025.11 ~ ing)
-> - KDT 게임개발 부트캠프 교육 조교
+> - KDT 게임개발 부트캠프 교육
 
 <br>
 
@@ -57,7 +59,13 @@
   
 ## 🚀 Key Projects
 
-#### 🧪 Affinity Lab (VR 시뮬레이션 | 🏆 2025 HOLO EXPO 공식 초청작)
+#### 🤺 REKINDLE (2D 소울라이크 | Studio LightHouse)
+> - **설명**: 2D 소울라이크
+> - **역할**: 개발팀장
+> - **steam** →  <a href="https://store.steampowered.com/app/4368580/REKINDLE/?l=koreana">`REKINDLE`<a>
+<br>
+
+#### 🧪 Affinity Lab (VR 시뮬레이션 | 🏆 2025 HOLO EXPO 부스참여, 🏆 2026 해피사이언스 축제 부스참여)
 > - **설명**: 실험실 내 PCR 및 배양 실험을 체험하는 1인칭 VR 시뮬레이터
 > - **핵심 기술**: 
 >   - Gemini API & Meta SDK 연동을 통한 하이브리드 대화형 AI 조수 구현
